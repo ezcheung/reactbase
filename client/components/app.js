@@ -12,8 +12,8 @@ export default class App extends React.Component {
   render() {
     return (
       <div>
-        Template text, put your render code here!
-      </div>)
+        {"Template text, put your render code here!"}
+      </div>
     )
   }
 }
